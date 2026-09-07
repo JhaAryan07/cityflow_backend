@@ -41,8 +41,7 @@ alembic upgrade head
 uvicorn app.main:app --reload
 ```
 
-Docs: http://localhost:8000/docs
-Health: http://localhost:8000/api/v1/health
+
 
 ## Frontend CORS
 
